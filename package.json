@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Varun",
+  "author": "Varun Pandit",
   "license": "ISC",
   "description": "",
   "dependencies": {
